@@ -21,7 +21,7 @@ bash <(curl -Ss https://raw.githubusercontent.com/ForestRacks/PteroInstaller/Pro
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 20.04   | :white_check_mark: | 8.3         |
 |                  | 22.04   | :white_check_mark: | 8.3         |
-|                  | 24.04   | :red_circle: \*    |             |
+|                  | 24.04   | :white_check_mark: | 8.3         |
 | Debian           | 11      | :white_check_mark: | 8.3         |
 |                  | 12      | :white_check_mark: | 8.3         |
 |                  | 13      | :red_circle: \*    |             |
