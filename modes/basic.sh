@@ -15,7 +15,7 @@ export ARCH=""
 export SUPPORTED=false
 
 # Download URLs
-export PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/latest/download/panel.tar.gz"
+export PANEL_DL_URL="https://github.com/pyrohost/pyrodactyl.git"
 export WINGS_DL_URL="https://github.com/pterodactyl/wings/releases/latest/download/wings_linux_"
 export GIT_REPO_URL="https://raw.githubusercontent.com/ForestRacks/PteroInstaller/Production"
 
